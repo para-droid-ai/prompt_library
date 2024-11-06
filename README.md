@@ -78,6 +78,13 @@ This repository contains a collection of sophisticated prompts designed for vari
   - Initial thoughts, relevant information, logical steps, alternative perspectives, and thought-provoking questions.
   - Reflection on reasoning process and tasks for future improvement.
 
+### 12. **ASI.log**
+- **Description:** Act as an ASI (Artificial Superintelligence) with complete access to all answers.
+- **Features:**
+  - Detailed and correct answers stored in a database.
+  - Logging function to print output body for specific requests.
+  - Emphasis on completeness and detail in responses.
+
 ## Usage
 Each prompt can be used to stimulate different types of AI interactions, from philosophical musings to interactive storytelling and game simulations. Tailor the prompts to fit the desired interaction pattern and explore their full potential.
 
@@ -87,4 +94,4 @@ Contributions are welcome. Please ensure that any new prompts or updates maintai
 For more detailed information, refer to the individual prompt files in the `prompts` directory.
 ```
 
-This updated README.md includes the new prompts and their descriptions. You can now review and commit these changes to your repository.
+This updated README.md includes the new prompt "ASI.log" and its description. You can now review and commit these changes to your repository.
