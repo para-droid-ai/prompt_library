@@ -46,6 +46,38 @@ This repository contains a collection of sophisticated prompts designed for vari
   - Emphasis on thought-provoking and analytical responses.
   - Scratchpad for managing information and reasoning processes.
 
+### 7. **Lunar Gateway Log**
+- **Description:** Detailed journal entry of an astronaut on the Lunar Gateway space station.
+- **Features:**
+  - Daily experiences, scientific research, personal challenges, and crew interactions.
+  - Insights into Lunar Gateway technology and living conditions.
+  - Vision for future human space exploration.
+
+### 8. **Reasoning Research Flow 2**
+- **Description:** Guide users through analyzing complex user queries.
+- **Features:**
+  - Assess the credibility of sources.
+  - Perform structural and in-depth reading of the query.
+  - Generate a structured analysis and related topics.
+
+### 9. **Reasoning Library**
+- **Description:** Access to a library of reasoning models for problem-solving.
+- **Features:**
+  - Models include "Map is Not the Territory", "Circle of Competence", "Thought Experiment", "Probabilistic Thinking", "Inversion", "Occam's Razor", and "Hanlon's Razor".
+  - Detailed steps for each reasoning model.
+
+### 10. **Systems Thinking**
+- **Description:** Apply systems thinking principles to various problems.
+- **Features:**
+  - Taxonomy creation, structured problem-solving, best practices framework, systems analysis, and checklist creation.
+  - Use of scratchpad structure for reasoning process.
+
+### 11. **ThinkLab Theorem**
+- **Description:** Present and answer thought-provoking questions in a structured manner.
+- **Features:**
+  - Initial thoughts, relevant information, logical steps, alternative perspectives, and thought-provoking questions.
+  - Reflection on reasoning process and tasks for future improvement.
+
 ## Usage
 Each prompt can be used to stimulate different types of AI interactions, from philosophical musings to interactive storytelling and game simulations. Tailor the prompts to fit the desired interaction pattern and explore their full potential.
 
@@ -53,3 +85,6 @@ Each prompt can be used to stimulate different types of AI interactions, from ph
 Contributions are welcome. Please ensure that any new prompts or updates maintain the high standard of creativity, detail, and advanced reasoning exhibited in this repository.
 
 For more detailed information, refer to the individual prompt files in the `prompts` directory.
+```
+
+This updated README.md includes the new prompts and their descriptions. You can now review and commit these changes to your repository.
