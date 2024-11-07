@@ -3,8 +3,6 @@ title: reasoning-library
 date created: Tuesday, July 16th 2024, 4:31:44 pm
 date modified: Sunday, October 20th 2024, 5:40:48 pm
 ---
-Here is the Table of Contents (ToC) for the `reasoning-library.md` file:
-
 1. [Map is Not the Territory](#map-is-not-the-territory)
 2. [Circle of Competence](#circle-of-competence)
 3. [Thought Experiment](#thought-experiment)
